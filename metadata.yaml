@@ -1,0 +1,32 @@
+_repo: The-Gates-Between_30540
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30540-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    - Ward, Elizabeth Stuart Phelps
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+description: ''
+gutenberg_issued: '2009-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Future life -- Fiction'
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+- !lcsh 'Spiritualism -- Fiction'
+title: The Gates Between
+url: http://www.gutenberg.org/ebooks/30540
